@@ -1,6 +1,6 @@
 <h1 align="left">Julia Conceição Prazeres Bitencourt</h1>
 
-
+Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
 **Tecnologias que estudo**
 
@@ -82,11 +82,6 @@
     </td>
   </tr>
 </table>
-
-
-**Sobre mim**
-
-- Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
 
 
