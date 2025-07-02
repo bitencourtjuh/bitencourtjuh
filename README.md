@@ -1,22 +1,50 @@
-### Julia Conceição Prazeres Bitencourt
----
+<h2 align="center">✨ Julia Conceição Prazeres Bitencourt ✨</h2>
 
- Estudante de Desenvolvimento de Sistemas  
-
----
-
-### Tecnologias que estudo e utilizo
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonada+por+tecnologia;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
 </p>
+
+---
+
+### Tecnologias que estudo
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java</td>
+    <td>
+      <div style="background-color:#ddd; border-radius:5px; width:100px;">
+        <div style="width:85%; background-color:#f75c7e; padding:4px 0; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript</td>
+    <td>
+      <div style="background-color:#ddd; border-radius:5px; width:100px;">
+        <div style="width:80%; background-color:#f7df1e; padding:4px 0; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React</td>
+    <td>
+      <div style="background-color:#ddd; border-radius:5px; width:100px;">
+        <div style="width:70%; background-color:#61dafb; padding:4px 0; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python</td>
+    <td>
+      <div style="background-color:#ddd; border-radius:5px; width:100px;">
+        <div style="width:75%; background-color:#3776ab; padding:4px 0; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Sobre mim
+- 🎓 Técnica em Desenvolvimento de Sistemas  
 
