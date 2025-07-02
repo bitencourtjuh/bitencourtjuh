@@ -2,7 +2,7 @@
 
 
 
-### Tecnologias que estudo
+**Tecnologias que estudo**
 
 <table align="center">
   <tr>
@@ -84,7 +84,7 @@
 </table>
 
 
-### Sobre mim
+**Sobre mim**
 
 - Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
