@@ -1,6 +1,5 @@
 <h1 align="left">Julia Conceição Prazeres Bitencourt</h1>
 
-<br>
 Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
 <br>
