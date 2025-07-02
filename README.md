@@ -4,7 +4,7 @@ Estudante do Curso Técnico em Desenvolvimento de Sistemas
 
 **Tecnologias que estudo**
 
-<table align="center">
+<table align="left">
   <tr>
     <th>Java</th>
     <th>JavaScript</th>
