@@ -2,8 +2,6 @@
 
 Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
-**Tecnologias que estudo**
-
 <table align="left">
   <tr>
     <th>Java</th>
