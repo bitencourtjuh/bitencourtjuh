@@ -2,6 +2,7 @@
 
 Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
+<br>
 
 <table align="left">
   <tr>
