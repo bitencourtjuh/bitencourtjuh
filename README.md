@@ -83,13 +83,11 @@
   </tr>
 </table>
 
-<hr>
 
 ### Sobre mim
 
 - Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
-<hr>
 
 
 
