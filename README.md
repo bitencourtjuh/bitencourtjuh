@@ -1,5 +1,4 @@
-<h1 align="center">Julia Conceição Prazeres Bitencourt</h1>
-<hr>
+<h1 align="left">Julia Conceição Prazeres Bitencourt</h1>
 
 
 
