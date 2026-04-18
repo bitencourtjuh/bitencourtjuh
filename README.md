@@ -83,56 +83,118 @@ Estudante do Curso Técnico em Desenvolvimento de Sistemas
   </tr>
 </table> -->
 
-<h1 align="center">👩‍💻 Julia Conceição Prazeres Bitencourt</h1>
 
-<p align="center">
-  Estudante de Desenvolvimento de Sistemas <br>
-  Focada em Backend, APIs e Banco de Dados
-</p>
 
-<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,ts,react,angular,mysql,php" />
-</p>
+<h1 align="left"> Julia Conceição Prazeres Bitencourt</h1>
+
+<p>Estudante do Curso Técnico em Desenvolvimento de Sistemas</p>
 
 <br>
 
-<h3 align="center">📊 Nível de Conhecimento</h3>
+<table align="left" style="border-collapse: separate; border-spacing: 12px;">
+  <tr>
+    <th>Java</th>
+    <th>JavaScript</th>
+    <th>Python</th>
+    <th>HTML</th>
+    <th>CSS</th>
+    <th>TypeScript</th>
+    <th>React</th>
+    <th>Angular</th>
+    <th>MySQL</th>
+    <th>PHP</th>
+  </tr>
 
-<p align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/></td>
+  </tr>
 
-Java <img src="https://img.shields.io/badge/Java-85%25-f75c7e?style=for-the-badge&logo=java&logoColor=white"/>
+  <tr>
+    <!-- Java -->
+    <td>
+      <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+        <div style="width:85%; height:100%; background:linear-gradient(90deg,#ff7a7a,#f75c7e); border-radius:10px;"></div>
+      </div>
+    </td>
 
-JavaScript <img src="https://img.shields.io/badge/JavaScript-80%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+```
+<!-- JS -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:80%; height:100%; background:linear-gradient(90deg,#f7df1e,#ffd43b); border-radius:10px;"></div>
+  </div>
+</td>
 
-Python <img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- Python -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:75%; height:100%; background:linear-gradient(90deg,#3776ab,#4ea1d3); border-radius:10px;"></div>
+  </div>
+</td>
 
-HTML <img src="https://img.shields.io/badge/HTML-85%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+<!-- HTML -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:85%; height:100%; background:linear-gradient(90deg,#e34f26,#ff6b4a); border-radius:10px;"></div>
+  </div>
+</td>
 
-CSS <img src="https://img.shields.io/badge/CSS-80%25-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+<!-- CSS -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:80%; height:100%; background:linear-gradient(90deg,#264de4,#4f7cff); border-radius:10px;"></div>
+  </div>
+</td>
 
-TypeScript <img src="https://img.shields.io/badge/TypeScript-70%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<!-- TS -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:70%; height:100%; background:linear-gradient(90deg,#3178c6,#5aa0ff); border-radius:10px;"></div>
+  </div>
+</td>
 
-React <img src="https://img.shields.io/badge/React-70%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+<!-- React -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:70%; height:100%; background:linear-gradient(90deg,#61dafb,#8be9fd); border-radius:10px;"></div>
+  </div>
+</td>
 
-Angular <img src="https://img.shields.io/badge/Angular-65%25-dd1b16?style=for-the-badge&logo=angular&logoColor=white"/>
+<!-- Angular -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:65%; height:100%; background:linear-gradient(90deg,#dd1b16,#ff4b4b); border-radius:10px;"></div>
+  </div>
+</td>
 
-MySQL <img src="https://img.shields.io/badge/MySQL-75%25-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- MySQL -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:75%; height:100%; background:linear-gradient(90deg,#00758f,#00a5c4); border-radius:10px;"></div>
+  </div>
+</td>
 
-PHP <img src="https://img.shields.io/badge/PHP-70%25-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
+<!-- PHP -->
+<td>
+  <div style="background:#f1f1f1; border-radius:10px; width:90px; height:8px;">
+    <div style="width:70%; height:100%; background:linear-gradient(90deg,#777bb4,#9fa4ff); border-radius:10px;"></div>
+  </div>
+</td>
+```
 
-</p>
+  </tr>
+</table>
 
-<br>
-
-<h3 align="center">✨ Sobre mim</h3>
-
-<p align="center">
-💡 Interesse em Engenharia de Software <br>
-📚 Estudando desenvolvimento web e APIs <br>
-🚀 Construindo projetos reais para portfólio
-</p>
 
 
 
