@@ -1,4 +1,4 @@
-<h1 align="left">Julia Conceição Prazeres Bitencourt</h1>
+<!-- <h1 align="left">Julia Conceição Prazeres Bitencourt</h1>
 
 Estudante do Curso Técnico em Desenvolvimento de Sistemas  
 
@@ -81,7 +81,59 @@ Estudante do Curso Técnico em Desenvolvimento de Sistemas
       </div>
     </td>
   </tr>
-</table>
+</table> -->
+
+<h1 align="center">👩‍💻 Julia Conceição Prazeres Bitencourt</h1>
+
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas <br>
+  Focada em Backend, APIs e Banco de Dados
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,ts,react,angular,mysql,php" />
+</p>
+
+<br>
+
+<h3 align="center">📊 Nível de Conhecimento</h3>
+
+<p align="center">
+
+Java <img src="https://img.shields.io/badge/Java-85%25-f75c7e?style=for-the-badge&logo=java&logoColor=white"/>
+
+JavaScript <img src="https://img.shields.io/badge/JavaScript-80%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+Python <img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+
+HTML <img src="https://img.shields.io/badge/HTML-85%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+CSS <img src="https://img.shields.io/badge/CSS-80%25-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+
+TypeScript <img src="https://img.shields.io/badge/TypeScript-70%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+React <img src="https://img.shields.io/badge/React-70%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+
+Angular <img src="https://img.shields.io/badge/Angular-65%25-dd1b16?style=for-the-badge&logo=angular&logoColor=white"/>
+
+MySQL <img src="https://img.shields.io/badge/MySQL-75%25-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+PHP <img src="https://img.shields.io/badge/PHP-70%25-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
+
+<br>
+
+<h3 align="center">✨ Sobre mim</h3>
+
+<p align="center">
+💡 Interesse em Engenharia de Software <br>
+📚 Estudando desenvolvimento web e APIs <br>
+🚀 Construindo projetos reais para portfólio
+</p>
+
 
 
 
