@@ -9,23 +9,23 @@ Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na ár
 </p>
 
 ### Contatos
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.bitencourt3110@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4C1D95?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511970393210)
-[![Instagram](https://img.shields.io/badge/-Instagram-4C1D95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jubitencourt/)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bitencourtjuh)
+
+[![Gmail](https://img.shields.io/badge/Gmail-CAA8ED?style=for-the-badge&logo=gmail&logoColor=4C1D95)](mailto:julia.bitencourt3110@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-CAA8ED?style=for-the-badge&logo=whatsapp&logoColor=4C1D95)](https://wa.me/5511970393210)
+[![Instagram](https://img.shields.io/badge/Instagram-CAA8ED?style=for-the-badge&logo=instagram&logoColor=4C1D95)](https://www.instagram.com/__jubitencourt/)
+[![GitHub](https://img.shields.io/badge/GitHub-CAA8ED?style=for-the-badge&logo=github&logoColor=4C1D95)](https://github.com/bitencourtjuh)
 
 ### Tecnologias e Habilidades
 
-![Java](https://img.shields.io/badge/Java-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4C1D95?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4C1D95?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-4C1D95?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-4C1D95?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4C1D95?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4C1D95?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-CAA8ED?style=for-the-badge&logo=openjdk&logoColor=4C1D95)
+![JavaScript](https://img.shields.io/badge/JavaScript-CAA8ED?style=for-the-badge&logo=javascript&logoColor=4C1D95)
+![Python](https://img.shields.io/badge/Python-CAA8ED?style=for-the-badge&logo=python&logoColor=4C1D95)
+![TypeScript](https://img.shields.io/badge/TypeScript-CAA8ED?style=for-the-badge&logo=typescript&logoColor=4C1D95)
+![React](https://img.shields.io/badge/React-CAA8ED?style=for-the-badge&logo=react&logoColor=4C1D95)
+![Angular](https://img.shields.io/badge/Angular-CAA8ED?style=for-the-badge&logo=angular&logoColor=4C1D95)
+![MySQL](https://img.shields.io/badge/MySQL-CAA8ED?style=for-the-badge&logo=mysql&logoColor=4C1D95)
+![PHP](https://img.shields.io/badge/PHP-CAA8ED?style=for-the-badge&logo=php&logoColor=4C1D95)
+![Git](https://img.shields.io/badge/Git-CAA8ED?style=for-the-badge&logo=git&logoColor=4C1D95)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BC4ED8&height=100&section=footer"/>
 <!--
