@@ -1,88 +1,32 @@
-<h1 align="left">Julia Conceição Prazeres Bitencourt</h1>
+# Julia Conceição Prazeres Bitencourt
 
-Estudante do Curso Técnico em Desenvolvimento de Sistemas  
+<img align="right" alt="Computador" height="320" src="computador.png">
 
-<br>
+<p align="justify">
+Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na área de programação e desenvolvimento de software.
+</p>
 
-<table align="left">
-  <tr>
-    <th>Java</th>
-    <th>JavaScript</th>
-    <th>Python</th>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>TypeScript</th>
-    <th>React</th>
-    <th>Angular</th>
-    <th>MySQL</th>
-    <th>PHP</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/></td>
-  </tr>
-  <tr>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:85%; background:#f75c7e; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:80%; background:#f7df1e; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:75%; background:#3776ab; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:85%; background:#e34f26; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:80%; background:#264de4; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:70%; background:#3178c6; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:70%; background:#61dafb; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:65%; background:#dd1b16; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:75%; background:#00758f; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>
-      <div style="background:#ddd; border-radius:5px; width:80px;">
-        <div style="width:70%; background:#777bb4; padding:4px 0; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-</table>
+### Contatos
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bitencourtjuh)
 
+### Tecnologias e Habilidades
 
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- Estatísticas -->
+<!--
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bitencourtjuh&t&bg_color=000000&border_color=white&title_color=FFFFFF&text_color=FFFFFF
+-->
