@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F988FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF00FF"/>
 
 # Julia Conceição Prazeres Bitencourt
 
@@ -27,7 +27,7 @@ Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na ár
 ![PHP](https://img.shields.io/badge/PHP-CAA8ED?style=for-the-badge&logo=php&logoColor=4C1D95)
 ![Git](https://img.shields.io/badge/Git-CAA8ED?style=for-the-badge&logo=git&logoColor=4C1D95)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F988FF&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=footer"/>
 <!--
 <td>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bitencourtjuh&layout=compact&bg_color=000000&border_color=white&title_color=FFFFFF&text_color=FFFFFF"/>
