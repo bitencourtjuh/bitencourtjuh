@@ -9,7 +9,9 @@ Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na ár
 </p>
 
 ### Contatos
-
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.bitencourt3110@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4C1D95?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511970393210)
+[![Instagram](https://img.shields.io/badge/-Instagram-4C1D95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jubitencourt/)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bitencourtjuh)
 
 ### Tecnologias e Habilidades
