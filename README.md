@@ -2,7 +2,7 @@
 
 # Julia Conceição Prazeres Bitencourt
 
-<img align="right" alt="Computador" height="320" src="computador1.png">
+<img align="right" alt="Computador" height="320" src="computador.png">
 
 <p align="justify">
 Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na área de programação e desenvolvimento de software.
