@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BF00FF"/>
 
 # Julia Conceição Prazeres Bitencourt
 
 
-<img align="right" width="320px" src="./kuromi.png" alt="Kuromi" />
+<img align="right" width="320px" src="./kuromi2.png" alt="Kuromi" />
 
 <p align="justify">
 Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na área de programação e desenvolvimento de software.
