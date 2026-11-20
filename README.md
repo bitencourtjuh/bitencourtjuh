@@ -2,7 +2,8 @@
 
 # Julia Conceição Prazeres Bitencourt
 
-<img align="right" alt="Computador" height="320" src="computador.png">
+
+<img align="right" width="320px" src="./kuromi.png" alt="Kuromi" />
 
 <p align="justify">
 Estudante do Curso Técnico em Desenvolvimento de Sistemas, com interesse na área de programação e desenvolvimento de software.
